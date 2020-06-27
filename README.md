@@ -1,4 +1,4 @@
-# Include Contents of CF7 to CSV mail attachement
+# Include Contents of CF7 to CSV mail attachment
 A surprisingly short but useful function to store mail contents of a CF7 submission to a CSV file and wipe the file after successful submission.
 ## Installation
 Add the code to your functions.php file and adjust accordingly. You'll need to add your form ID, field names and path to CSV.
